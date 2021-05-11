@@ -1,1 +1,1 @@
-This is a test 
+Merge Sort, Quick Sort, and Binary Search Study 
