@@ -1,0 +1,6 @@
+all:
+	#make a directory to hold the build product
+	mkdir -p linux
+
+	#build MyProgram to that directory
+	g++ -std=c++11 -g -o linux/assign1.exe main.cpp Person.cpp
